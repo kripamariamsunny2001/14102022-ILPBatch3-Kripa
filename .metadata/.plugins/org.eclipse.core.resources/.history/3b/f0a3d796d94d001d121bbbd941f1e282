@@ -1,0 +1,24 @@
+package com.experion.entity;
+
+import java.util.Scanner;
+
+public class Product {
+	private String productCode;
+	private String productName;
+	private String productdescription;
+	private double productprice;
+	private String opendate;
+	private String validitydate;
+	private String expirydate;
+	private boolean active;
+	
+	public void setproductCode(String productCode)
+	{
+		this.productCode = productCode;
+	}
+	public String getProductCode()
+	{
+		return this.productCode;
+	}
+}
+		

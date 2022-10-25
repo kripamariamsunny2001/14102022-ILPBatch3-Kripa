@@ -1,0 +1,51 @@
+ackage com.experion.entity;
+
+import java.util.Scanner;
+
+public class Product {
+
+	private String customerId;
+	private String customerId1;
+	private String productName;
+	private String productName1;
+	private double amountDeposited;
+	public Product(String customerId, String customerId1, String productName, String productName1,
+			double amountDeposited) {
+		super();
+		this.customerId = customerId;
+		this.customerId1 = customerId1;
+		this.productName = productName;
+		this.productName1 = productName1;
+		this.amountDeposited = amountDeposited;
+	}
+	public String getCustomerId() {
+		return customerId;
+	}
+	public void setCustomerId(String customerId) {
+		this.customerId = customerId;
+	}
+	public String getCustomerId1() {
+		return customerId1;
+	}
+	public void setCustomerId1(String customerId1) {
+		this.customerId1 = customerId1;
+	}
+	public String getProductName() {
+		return productName;
+	}
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+	public String getProductName1() {
+		return productName1;
+	}
+	public void setProductName1(String productName1) {
+		this.productName1 = productName1;
+	}
+	public double getAmountDeposited() {
+		return amountDeposited;
+	}
+	public void setAmountDeposited(double amountDeposited) {
+		this.amountDeposited = amountDeposited;
+	}}
+	

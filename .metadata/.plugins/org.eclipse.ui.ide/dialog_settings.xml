@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="D:\ILP Experion\Shared Documents by SPAAR\ilpinheritance"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\ILP Experion\Shared Documents by Suneesh\Assessment_2.0 (1).zip"/>
+			<item value="D:\ILP Experion\Shared Documents by Suneesh\assignment.zip"/>
+			<item value="D:\ILP Experion\Shared Documents by SPAAR\BankAssignment.zip"/>
+			<item value="D:\ILP Experion\Shared Documents by SPAAR\ilpinheritance.zip"/>
+			<item value="D:\ILP Experion\Shared Documents by SPAAR\productDate.zip"/>
+			<item value="D:\ILP Experion\Shared Documents by Suneesh\17_10_2022\POJO.zip"/>
+			<item value="D:\ILP Experion\Shared Documents by Suneesh\15_10_2022\DemonstrationProgram14102022.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

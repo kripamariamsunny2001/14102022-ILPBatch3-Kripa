@@ -1,0 +1,11 @@
+package com.experion.utility;
+
+public class CustomerUtility {
+
+	public static void main(String[] args) {
+		Customer customer = new Customer("CS100","Kripa");
+		System.out.println(customer);
+
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.experion.entity;
+
+import java.util.Scanner;
+
+public class Productutility {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		Product product = new Product();
+		System.out.println("Enter the product code");
+		String productCode = scanner.nextLine();
+		product.setproductCode(productCode);
+		System.out.println("The product code is-" +product.getProductCode());
+		
+		
+
+	}
+
+}

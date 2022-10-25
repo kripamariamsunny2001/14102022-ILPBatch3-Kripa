@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.experion.entity.Card"/>
+    <fullyQualifiedTypeName name="com.experion.service.Service"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.experion.entity.Product"/>
+    <fullyQualifiedTypeName name="com.experion.entity.SavingMaxAccount"/>
+    <fullyQualifiedTypeName name="com.experion.entity.Customer"/>
+    <fullyQualifiedTypeName name="com.experion.entity.CurrentAccount"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.bank.service.Service"/>
+    <fullyQualifiedTypeName name="com.bank.entity.CurrentAccount"/>
+</qualifiedTypeNameHistroy>

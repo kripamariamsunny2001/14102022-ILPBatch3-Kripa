@@ -1,0 +1,32 @@
+package com.experion.entity;
+
+import java.util.ArrayList;
+
+public class Account {
+	private String accounNumber;
+	private double accountBalance;
+	public Account(String accounNumber, double accountBalance) {
+		super();
+		this.accounNumber = accounNumber;
+		this.accountBalance = accountBalance;
+	}
+	public String getAccounNumber() {
+		return accounNumber;
+	}
+	public void setAccounNumber(String accounNumber) {
+		this.accounNumber = accounNumber;
+	}
+	public double getAccountBalance() {
+		return accountBalance;
+	}
+	public void setAccountBalance(double accountBalance) {
+		this.accountBalance = accountBalance;
+	}
+	
+	
+	}
+	
+	
+
+	
+
