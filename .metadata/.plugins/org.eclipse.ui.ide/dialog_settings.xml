@@ -11,6 +11,7 @@
 			<item value="D:\ILP Experion\Shared Documents by SPAAR\ilpinheritance"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\ILP Experion\Shared Documents by SPAAR\BasicProgramming.zip"/>
 			<item value="D:\ILP Experion\Shared Documents by Suneesh\Assessment_2.0 (1).zip"/>
 			<item value="D:\ILP Experion\Shared Documents by Suneesh\assignment.zip"/>
 			<item value="D:\ILP Experion\Shared Documents by SPAAR\BankAssignment.zip"/>
@@ -21,5 +22,11 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 	</section>
 </section>
